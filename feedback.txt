@@ -1,0 +1,5 @@
+Feedback from Ian Miguel at 29/04/2014 23:46:
+
+This is an very good piece of work - well done. Your report gives a reasonable overview of your design, but it could be clearer in places. For instance, there is no description of what constraint types your solver supports. Your code, however, is well structured, presented, and commented.
+
+You have met the specification in producing a d-way branching Forward Checking solver that supports static and dynamic variable ordering heuristics. Your empirical analysis could have been improved significantly by adding more (and more difficult) instances. It is difficult to draw much of a conclusion from a single easy instance. You have done a good job of one of the extension items in implementing 2-way branching and comparing its performance with that of d-way on your instance. Again, a better comparison between the two approaches would have been possible with more instances.
